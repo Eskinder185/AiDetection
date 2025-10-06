@@ -5,7 +5,7 @@ It demonstrates skills in **AI, cybersecurity, and cloud computing** by evolving
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Modern cyberattacks are often hidden in large volumes of network traffic.  
 This project uses **AI techniques** to automatically detect and classify malicious activities using real-world datasets such as **NSL-KDD**.
@@ -16,5 +16,6 @@ This project uses **AI techniques** to automatically detect and classify malicio
 - Baseline ML models for performance comparison  
 - Visualization (loss curves, confusion matrices, evaluation metrics)  
 - Cloud deployment (upcoming: AWS Lambda + Streamlit Dashboard)
+
 
 
